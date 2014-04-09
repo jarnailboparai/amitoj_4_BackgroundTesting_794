@@ -1,0 +1,22 @@
+.theme_bg
+
+{
+
+	background-image:none;
+
+	background-repeat:no-repeat;
+
+	background-size:cover;	
+
+	background: radial-gradient(center top , ellipse cover , rgb(107, 255, 1) 35% , rgb(11, 128, 0) 68%);
+background: -o-radial-gradient(center top , ellipse cover , rgb(107, 255, 1) 35% , rgb(11, 128, 0) 68%);
+background: -ms-radial-gradient(center top , ellipse cover , rgb(107, 255, 1) 35% , rgb(11, 128, 0) 68%);
+background: -moz-radial-gradient(center top , ellipse cover , rgb(107, 255, 1) 35% , rgb(11, 128, 0) 68%);
+background: -webkit-radial-gradient(center top , ellipse cover , rgb(107, 255, 1) 35% , rgb(11, 128, 0) 68%);
+
+
+
+
+
+
+}
